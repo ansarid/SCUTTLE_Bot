@@ -1,4 +1,2 @@
-# SCUTTLE_Bot
-(linked reposityory)
-
-The SCUTTLE project is found under github.com/MXET/scuttle
+# The SCUTTLE robot project is located here:
+https://github.com/MXET/SCUTTLE/
