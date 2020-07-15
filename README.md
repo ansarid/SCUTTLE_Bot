@@ -1,2 +1,4 @@
 # SCUTTLE_Bot
-(linked reposityory) See MXET/SCUTTLE
+(linked reposityory)
+
+The SCUTTLE project is found under github.com/MXET/scuttle
